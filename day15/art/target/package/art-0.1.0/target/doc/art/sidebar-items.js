@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["kinds","name","utils"]};
