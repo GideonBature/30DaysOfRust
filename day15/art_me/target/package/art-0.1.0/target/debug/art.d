@@ -1,1 +1,1 @@
-/home/bene/Desktop/30DaysOfRust/day15/art/target/package/art-0.1.0/target/debug/art: /home/bene/Desktop/30DaysOfRust/day15/art/target/package/art-0.1.0/src/lib.rs /home/bene/Desktop/30DaysOfRust/day15/art/target/package/art-0.1.0/src/main.rs
+/home/bene/Desktop/30DaysOfRust/day15/art_me/target/package/art-0.1.0/target/debug/art: /home/bene/Desktop/30DaysOfRust/day15/art_me/target/package/art-0.1.0/src/lib.rs /home/bene/Desktop/30DaysOfRust/day15/art_me/target/package/art-0.1.0/src/main.rs
